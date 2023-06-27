@@ -17,16 +17,17 @@ const Home = () => {
           <div className="about__cards">
             <article className="about__card">
             <FiCode className="about__icon" />
-              <h4>Experience</h4>
-              <p>5 months of HTML, CSS/SCSS, JavaScript, Angular and React</p>
+              <h4>Front end</h4>
+              <p>1.5 year of HTML, CSS/SCSS, JavaScript/Typescript, Angular and React with knowledge of including </p>
+              <p></p>
             </article>
             <article className="about__card">
               <FiClipboard className="about__icon" />
-              <h4>Projects</h4>
-              <p>PokeApi, MoleBuster, ToDoList, AngularProject, ReactProject, myPersonalCV</p>
+              <h4>Salesforce</h4>
+              <p>1 year of Salesforce, including all the knowledge for Admin (profiles, custom settings, metadata, flows, sites, etc), Dev (apex, triggers, schedulables, etc), VF, Aura and LWC (including integrations with SOAP/REST APIs)</p>
             </article>
           </div>
-          <p>Front-end developer. I've spent my last months in a bootcamp, remotly, working with front-end's main technologies. I've been worked with Git/GitHub/GitLab, improving soft-skills such as teamwork, having a regular timeline, etc.</p>
+          <p>Soft skills: Team work, I've worked with Agile methodogies (SCRUM), project control with GIT (GitLab, GitHub) and Azure. Also a bit of BitBucket and Salesforce DevOps center. Also I have experience with using PostMan and Datadog.</p>
         </div>
       </div>
     </section>
